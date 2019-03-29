@@ -9,4 +9,4 @@ UI组件第一题SimpleAdapter
 
 （3）使用Toast显示选中的列表项信息
 
-![image]()
+![image](https://github.com/zhanglei742/UI_Design/blob/master/app/readme/1.png)
