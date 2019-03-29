@@ -1,12 +1,12 @@
 # UI_Design
 UI组件第一题SimpleAdapter
 
-创建自定义布局的AlertDialog
+利用SimpleAdapter实现如下界面效果
 
-创建如图所示的自定义对话框
+（1）注意列表项的布局
 
-请创建一个如图所示的布局，
+（2）图片使用QQ群附件资源
 
-调用AlertDialog.Builder 对象上的setView() 将布局添加到AlertDialog。
+（3）使用Toast显示选中的列表项信息
 
-![image](https://github.com/zhanglei742/UI_Design/blob/master/app/readme/1.png)
+![image]()
